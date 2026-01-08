@@ -1,4 +1,4 @@
-🏦 Banking System Project
+<h1> 1. 🏦 Banking System Project </h1>
 
 This is a simple console-based Banking System application that simulates basic banking operations. The project allows users to interact with a bank account by selecting different options through a menu-driven interface.
 
